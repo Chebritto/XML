@@ -1,1 +1,8 @@
-
+<?xml version="1.0"?>
+<BugReport BugReportNumber="1234" BugReportDate="22-03-2023">
+    <NickNameTelega>@Chebritto</NickNameTelega>
+    <BugName>Check button "Chaokakao"</Name>
+  <Action>Click button "Chaokakao"</Action>
+  <ER>Window close, and open "head" main page</ER>
+  <AR>Window close, and open "footer" main page</AR>
+</BugReport>
