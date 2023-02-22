@@ -1,0 +1,8 @@
+
+<party>
+	<field name="name">Anton</field>
+	<field name="Surname">Kovrizhkin</field>
+	<field name = "Father name">Yuri</field>
+	<field name = "Desired salary"> 2500usd</field>
+	<field name = "Children's name"> Alisa and Sofia</field>
+</party>
