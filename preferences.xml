@@ -1,8 +1,8 @@
 <party>
-	<field name="name">Anton</field>
-	<field name="Surname">Kovrizhkin</field>
-	<field name = "Father name">Yuri</field>
-	<field name = "Desired salary"> 2500usd</field>
-	<field name = "Children's name"> Alisa and Sofia</field>
+	<field name="Favorite movie">Fight club</field>
+	<field name="Favorite series">How i met you mother</field>
+	<field name = "Favorite food">Apple pie</field>
+	<field name = "Favorite time of the year"> Winter</field>
+	<field name = "Favorite country"> Canada</field>
 </party>
 
