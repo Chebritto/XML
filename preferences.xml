@@ -1,8 +1,8 @@
-<party>
-	<field name="Favorite movie">Fight club</field>
-	<field name="Favorite series">How i met you mother</field>
-	<field name = "Favorite food">Apple pie</field>
-	<field name = "Favorite time of the year"> Winter</field>
-	<field name = "Favorite country"> Canad</field>
-</party>
 
+<root>
+  <favoirite_movie>Fight_club</favourite_movie  
+  <fav_TvShow>How_I_Met_Your_Mother</fan_TvShow>
+  <fav_food>Pancakes</fav_food>
+  <fav_season>Winter</fav_season>
+  <country_to_visit>Canada</country_to_visit>
+</root>
