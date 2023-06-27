@@ -1,8 +1,11 @@
-
-<party>
-	<field name="name">Anton</field>
-	<field name="Surname">Kovrizhkin</field>
-	<field name = "Father name">Yuri</field>
-	<field name = "desired salary"> 2500usd</field>
-	<field name = "Children's name"> Alisa and Sofia</field>
-</party>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <NSF>
+    <name>Antonio</name>
+    <surname>Kovrizhkin</surname>
+    <father_name>Yurii</father_name>
+  </NSF>
+  <age>30</age>
+  <pets>0</pets>
+  <desired_salary>100k_USD</desired_salary>
+</root>
